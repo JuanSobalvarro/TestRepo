@@ -20,4 +20,5 @@ Pull request aprobado.
 
 Lista:
 - Juan Sobalvarro
+- Israel Narvaez H.
 - QuesilloLover
