@@ -15,7 +15,7 @@ Después de clonar, cambien a una nueva rama donde harán sus modificaciones:
 ```bash
 git checkout -b <nombre-de-rama>
 ```
-> Reemplaza <nombre-de-rama> con tu nombre o un identificador relevante.
+> Reemplaza <nombre-de-rama> con tu nombre preferiblemente
 
 ### 3. Hacer Cambios
 Realicen los cambios solicitados en la actividad, antes de todo pongan su nombre aca abajo en el readme.
