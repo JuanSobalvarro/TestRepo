@@ -1,22 +1,47 @@
-# Repositorio de prueba para Ingenieria de Software
+# Repositorio de Prueba para Ingeniería de Software
+**Bienvenidos todos.** En este repositorio podremos hacer las actividades para la clase de Ingenieria de Software. Todos deberían ser colaboradores del repo para poder realizar todo lo especificado.
 
-Bienvenidos todos.
+### 1. Clonar el Repositorio
 
-Clonar Repo
+Usen el siguiente comando para clonar el repositorio.
+
 ```bash
 git clone https://github.com/JuanSobalvarro/TestRepo.git
 ```
-Dentro del repositorio checkout la branch:
+
+### 2. Crear una Nueva Rama
+Después de clonar, cambien a una nueva rama donde harán sus modificaciones:
+
 ```bash
-git checkout -b <nombre de branch>
-git add .
-git commit -m "<commit>"
-
-git push origin <nombre de branch>
+git checkout -b <nombre-de-rama>
 ```
-Luego vayan a la seccion de pull request
+> Reemplaza <nombre-de-rama> con tu nombre o un identificador relevante.
 
-Pull request aprobado.
+### 3. Hacer Cambios
+Realicen los cambios solicitados en la actividad, antes de todo pongan su nombre aca abajo en el readme.
+
+### 4. Guardar los Cambios
+Añadí los cambios que realizaste y haz un commit:
+
+```bash
+git add .
+git commit -m "Descripción de los cambios"
+```
+
+### 5. Subir la Rama al Repositorio
+Enviá tu rama al repositorio remoto:
+
+```bash
+git push origin <nombre-de-rama>
+```
+> Reemplazá <nombre-de-rama> con el nombre de la rama que creaste.
+
+### 6. Hacer un Pull Request (PR)
+En el repo vayan a la sección de Pull Requests en GitHub.
+Crea un nuevo Pull Request desde tu rama hacia la rama principal (main) del repositorio original.
+Una vez que tu PR sea aprobado, se integrarán tus cambios.
+
+> Ante algun inconveniente no duden en preguntar y pedir ayuda, aca todos estamos para aprender!!
 
 Lista:
 - Juan Sobalvarro
