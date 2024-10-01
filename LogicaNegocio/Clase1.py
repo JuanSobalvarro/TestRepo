@@ -25,5 +25,5 @@ def busqueda_lineal(lista, objetivo):
             return i  # Devuelve el índice del elemento si lo encuentra
     return -1  # Devuelve -1 si el elemento no está en la lista
 
-print('Hola')
+#print('Hola')
 
