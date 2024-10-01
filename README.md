@@ -45,10 +45,13 @@ Una vez que tu PR sea aprobado, se integrarán tus cambios.
 
 
 
+Profesor: Ing. Aaron Cisneros
+
 Lista:
 - Juan Sobalvarro
 - Israel Narvaez H.
 - QuesilloLover
+- Diego Roque
 - InNUenD00
 
 - Israel Narvez *Segunda vez*
