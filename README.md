@@ -59,3 +59,4 @@ Lista:
 - Israel Narvez *Segunda vez*
 
 - Jeremy Chávez
+- Kevin Mora
