@@ -55,3 +55,5 @@ Lista:
 - InNUenD00
 
 - Israel Narvez *Segunda vez*
+
+- Jeremy Chávez
