@@ -54,6 +54,7 @@ Lista:
 - Diego Roque
 - InNUenD00
 - Angie
+- Don Uberne Miranda
 
 - Israel Narvez *Segunda vez*
 
