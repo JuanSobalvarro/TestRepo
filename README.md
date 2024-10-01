@@ -53,7 +53,8 @@ Lista:
 - QuesilloLover
 - Diego Roque
 - InNUenD00
-- DonUberne
+- Angie
+- Don Uberne Miranda
 
 - Israel Narvez *Segunda vez*
 
