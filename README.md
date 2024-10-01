@@ -43,6 +43,8 @@ Una vez que tu PR sea aprobado, se integrarán tus cambios.
 
 > Ante algun inconveniente no duden en preguntar y pedir ayuda, aca todos estamos para aprender!!
 
+Profesor: Ing. Aaron Cisneros
+
 Lista:
 - Juan Sobalvarro
 - Israel Narvaez H.
