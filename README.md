@@ -49,5 +49,5 @@ Lista:
 - Juan Sobalvarro
 - Israel Narvaez H.
 - QuesilloLover
-
+- Diego Roque
 - Israel Narvez *Segunda vez*
