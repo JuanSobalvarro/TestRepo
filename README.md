@@ -53,6 +53,7 @@ Lista:
 - QuesilloLover
 - Diego Roque
 - InNUenD00
+- Angie
 
 - Israel Narvez *Segunda vez*
 
