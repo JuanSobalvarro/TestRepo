@@ -7,3 +7,6 @@ def exito():
     objetivo = 30
     resultado = busqueda_lineal(lista, objetivo)
     assert resultado == 2
+
+if __name__ == "__main__":
+    pytest.main()
