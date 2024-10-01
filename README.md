@@ -47,3 +47,5 @@ Lista:
 - Juan Sobalvarro
 - Israel Narvaez H.
 - QuesilloLover
+
+- Israel Narvez *Segunda vez*
